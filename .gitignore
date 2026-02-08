@@ -77,4 +77,19 @@ agenthub/agents/youtube/db
 .cache/
 
 # Mobile development
-android-sdk/ 
+android-sdk/ .env
+frontend/.env
+backend/.env
+
+.env
+frontend/.env
+backend/.env
+
+.env
+frontend/.env
+backend/.env
+
+.env
+frontend/.env
+backend/.env
+frontend/node_modules/.cache/default-development/0.pack
